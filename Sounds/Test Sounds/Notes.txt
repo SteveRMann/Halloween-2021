@@ -1,1 +1,4 @@
 These are simply a voice saying: "Track One", "Track two", etc.
+
+Render as MP3 Audio
+64 kps, FM radio Quality
